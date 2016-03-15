@@ -36,12 +36,12 @@ body {
 
 #street, #city 
 {
-    background-color: #37c239;
+    background-color: #FFFFFF;
 }
 
 #street:focus, #city:focus 
 {
-     background-color: #87ceeb;
+     background-color: #FFFFFF;
 }
 
 .greeting {
